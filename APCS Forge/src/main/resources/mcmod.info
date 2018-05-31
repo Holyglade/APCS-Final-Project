@@ -1,0 +1,16 @@
+[
+{
+  "modid": "APCS",
+  "name": "Anime",
+  "description": "For weeaboos",
+  "version": "${0.1}",
+  "mcversion": "${1.12.2}",
+  "url": "",
+  "updateUrl": "",
+  "authorList": ["Tony, Admir, Tina (TAT)"],
+  "credits": "Josh Miranda and Josh Young ;) ;)",
+  "logoFile": "",
+  "screenshots": [],
+  "dependencies": []
+}
+]
